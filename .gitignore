@@ -81,4 +81,3 @@ typings/
 
 # Stuff that should not be committed
 dist
-package-lock.json
